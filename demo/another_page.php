@@ -2,7 +2,7 @@
 
 require_once dirname(dirname(__FILE__)).'/Homunculus.php';
 
-$hom = Homunculus::getInstance('theme');
+$hom = Homunculus::getInstance('demo-theme');
 $hom->store(array('title' => 'Another Homunculus Page'));
 
 $hom->top();

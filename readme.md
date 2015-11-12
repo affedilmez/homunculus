@@ -22,7 +22,7 @@ Theme Files
 Usage
 -----
 
-See index.php and demo folder.
+See the demo folder for an example.
 
 License
 -------
