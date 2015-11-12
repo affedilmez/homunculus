@@ -4,7 +4,7 @@ $hom = Homunculus::getInstance();
 switch ($hom->getFragmentKey()):
 case 'first':
 ?>
-<p>When stored in the fragments.php file can be easily retrieved by multiple pages.</p>
+<p>When stored in the fragments.php file they can be retrieved by multiple pages.</p>
 <?php
 break;
 
