@@ -2,6 +2,7 @@
 
 /**
  * Homonculus -  class for managing CMS-like global HTML without DB overhead
+ * https://github.com/soundgnome/homunculus
  */
 class Homunculus {
 
