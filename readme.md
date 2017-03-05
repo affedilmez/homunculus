@@ -2,7 +2,7 @@ Homunculus
 ==========
 
 A PHP class for managing CMS-like global HTML without the
-overhead of a DB or class hierarchy. Can be usefule when you
+overhead of a DB or class hierarchy. Can be useful when you
 want to:
 
 * Generate a handful of static HTML files without having to
